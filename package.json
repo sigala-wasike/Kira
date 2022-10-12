@@ -1,0 +1,22 @@
+{
+  "name": "kira",
+  "version": "1.0.0",
+  "description": "kira",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigala-wasike/Kira.git"
+  },
+  "author": "helena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigala-wasike/Kira/issues"
+  },
+  "homepage": "https://github.com/sigala-wasike/Kira#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
